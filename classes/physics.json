@@ -1,7 +1,23 @@
 {
-  "students": [
-      { "name": "John", "age": 30, "city": "NYC", "grade": 48 },
-      { "name": "Emily", "age": 28, "city": "LA", "grade": 80 },
-      { "name": "Bryan", "age": 28, "city": "MI", "grade": 23 }
-    ]
-  }
+  "students": [{
+    "name": "John",
+    "age": 30,
+    "city": "NYC",
+    "grade": 48
+  }, {
+    "name": "Emily",
+    "age": 28,
+    "city": "LA",
+    "grade": 80
+  }, {
+    "name": "Bryan",
+    "age": 28,
+    "city": "MI",
+    "grade": 23
+  }, {
+    "name": "Elle",
+    "age": 30,
+    "city": "NYC",
+    "grade": 70
+  }]
+}
